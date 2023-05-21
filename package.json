@@ -9,6 +9,10 @@
     "dev": "nodemon index.js",
     "server": "nodemon index"
   },
+  "engines": {
+    "npm": ">=8.0.0 <9.0.0",
+    "node": ">=16.0.0 <17.0.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
